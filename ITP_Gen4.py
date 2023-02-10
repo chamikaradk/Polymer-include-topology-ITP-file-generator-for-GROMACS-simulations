@@ -29,8 +29,8 @@ rep2 = range(1,(repeats-1))
 #Bonds
 #    A-=====-Z
 
-A = 1   #start
-Z = 160 #end H
+A = 1   #start H of monomer
+Z = 160 #end H of monomer
 Hook_A = 2 
 Hook_Z = 34
 force_const = [1, 0.1460, 322168.000] #between C-C conjugated bond - find this out using LigParGen
