@@ -15,7 +15,7 @@ import os
 import matplotlib as mpl
 import re
 import glob
-os.chdir('C:\\Users\\chami\\Desktop\\test_topol\\N2200\\ITP_gen')
+os.chdir('Define/path')
 pwd=os.getcwd()
 
 
