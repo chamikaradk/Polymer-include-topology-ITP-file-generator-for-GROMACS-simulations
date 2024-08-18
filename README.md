@@ -1,4 +1,4 @@
-# Polymer-ITP-generator (ITP_Gen)
+# Polymer include topology (ITP) file generator for GROMACS simulations
 PolyITPgen Generates automated initial polymer topology for gromacs simulations. Both periodic and non periodic polymer molecules can be generated.
 Limitations: Only work with monomers with two interaction sites, makig linear polymer chains. 
 This code automatically generate polymer itp file for gromacs simulations from Monomer itp file. You may use LigParGen server by jorgensen lab @ Yale to generate initial itp file for the monomer.
